@@ -48,40 +48,15 @@ Here are a few Screenshots for more intricate details of the app
     <td><img src="screenshots/17.jpeg" width=270 height=480></td>
 	<td><img src="screenshots/18.jpeg" width=270 height=480></td>
   </tr>
- </table>
-
-<table>
+  
   <tr>
     
     <td><img src="screenshots/19.jpeg" width=270 height=480></td>
     <td><img src="screenshots/20.jpeg" width=270 height=480></td>
 	<td><img src="screenshots/21.jpeg" width=270 height=480></td>
   </tr>
+  
  </table>
- 
- <!-- /
-  <table>
-  <tr>
-    <td><img src="screenshots/4r.jpeg" width=270 height=480></td>
-    <td><img src="screenshots/5r.jpeg" width=270 height=480></td>
-    <td><img src="screenshots/6r.jpeg" width=270 height=480></td>
-  </tr>
- </table>
-  <table>
-  <tr>
-    <td><img src="screenshots/7r.jpeg" width=270 height=480></td>
-    <td><img src="screenshots/8r.jpeg" width=270 height=480></td>
-    <td><img src="screenshots/9r.jpeg" width=270 height=480></td>
-  </tr>
- </table>
-  <table>
-  <tr>
-    <td><img src="screenshots/10r.jpeg" width=270 height=480></td>
-    <td><img src="screenshots/11r.jpeg" width=270 height=480></td>
-  </tr>
- </table>
-
--->
 
 
 <!-- /
